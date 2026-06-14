@@ -1,0 +1,67 @@
+Win + R
+cmd
+cd \
+md Lab2
+cd Lab2
+
+md Info
+md A1
+md A2
+md A3
+
+cd Info
+md Personal
+md University
+md Hobby
+cd ..
+
+cd A1
+md B1
+cd ..
+cd A2
+md B2
+cd ..
+cd A3
+md B3
+cd ..
+
+cd \Lab2\Info\Personal
+copy con Name.txt
+Ivan Kachanov
+Ctrl + Z
+Enter
+copy con Date.txt
+24.03.2006
+copy con School.txt
+MTUCI
+cd \Lab2\Info\University
+copy con Name.txt
+MFUA
+copy con Mark.txt
+Math - 60 Russian - 74 Informatics - 76 Total - 210
+cd \Lab2\Info\Hobby
+copy con hobby.txt
+Dota 2, Vibecoding, Sport
+copy hobby.txt \Lab2\A2\Lab_1.txt
+cd \Lab2\A2
+
+copy Lab_1.txt copy_Lab_1.txt
+
+del copy_Lab_1.txt
+cls
+cd \Lab2\Info\Personal
+
+type Name.txt
+type Date.txt
+type School.txt
+dir /ON
+copy Name.txt+Date.txt+School.txt all.txt
+type all.txt
+notepad all.txt
+type all.txt
+copy all.txt \Lab2\A1
+cd \Lab2
+
+rd /S /Q A1
+rd /S /Q A2
+prompt $p$l
