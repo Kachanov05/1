@@ -1,0 +1,18 @@
+cd \
+cd Windows
+dir
+
+start notepad.exe
+
+tasklist
+
+taskkill /IM notepad.exe /F
+
+start wordpad.exe
+start notepad.exe 
+
+tasklist | find "notepad"
+
+
+taskkill /IM explorer.exe /F
+start explorer.exe
