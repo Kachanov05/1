@@ -67,3 +67,6 @@
 - taskkill
 - start
 
+<img width="1280" height="719" alt="6" src="https://github.com/user-attachments/assets/1a5cc2b3-b2ab-463e-8c4d-88b0759216b7" />
+
+
