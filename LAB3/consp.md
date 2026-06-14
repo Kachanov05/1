@@ -39,3 +39,8 @@
 ## Вывод
 В результате выполнения лабораторной работы были изучены основные механизмы защиты файловой системы NTFS, способы назначения разрешений доступа, наследование прав и управление владельцами объектов файловой системы.
 
+<img width="1280" height="722" alt="image" src="https://github.com/user-attachments/assets/6a26a954-ad10-4491-a47d-186753d63a65" />
+<img width="1280" height="722" alt="image" src="https://github.com/user-attachments/assets/1460474e-a09a-4e2d-81a1-2af97832ea18" />
+<img width="1280" height="722" alt="image" src="https://github.com/user-attachments/assets/e2315763-96bf-4a78-a368-bb90d929f79b" />
+
+<img width="1280" height="719" alt="image" src="https://github.com/user-attachments/assets/055de0ec-04db-42f4-a7a7-132e97b8032e" />
