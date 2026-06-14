@@ -67,6 +67,14 @@
 - taskkill
 - start
 
-<img width="1280" height="719" alt="6" src="https://github.com/user-attachments/assets/1a5cc2b3-b2ab-463e-8c4d-88b0759216b7" />
+<img width="1280" height="719" alt="1" src="https://github.com/user-attachments/assets/5568eca4-ca33-42aa-9b2d-f7a20fa59417" />
 
+<img width="1280" height="719" alt="2" src="https://github.com/user-attachments/assets/b2c703df-9ab5-4afa-b32a-c8b83ef3fb82" />
 
+<img width="1280" height="719" alt="3" src="https://github.com/user-attachments/assets/21b64ac4-fd24-48c3-8a50-4c9800449f35" />
+
+<img width="1280" height="719" alt="4" src="https://github.com/user-attachments/assets/626efc24-79c7-42e0-b979-26e8beba77d5" />
+
+<img width="1280" height="720" alt="5" src="https://github.com/user-attachments/assets/df8c98c6-aca9-458a-9e92-d17d3eeee805" />
+
+<img width="1280" height="719" alt="6" src="https://github.com/user-attachments/assets/d0880577-bd70-417b-937c-79e5d0b50f71" />
